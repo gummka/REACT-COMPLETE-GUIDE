@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <h1>Hi, I'm react app</h1>
       <Person />
+      <Person />
+      <Person />
     </div>
   );
 
