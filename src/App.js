@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <h1>Hi, I'm react app</h1>
-      <Person />
+      <Person name="Vyach" age="33"/>
+      <Person name="Ivan" age="21" >My hobby: racing</Person>
+      <Person name="Mary" age="32"/>
     </div>
   );
 
